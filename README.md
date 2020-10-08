@@ -3,7 +3,7 @@
 by [Mike James](https://twitter.com/mikecodesdotnet)
 
 # Important News! 
-App Center MBaaS will not mature out of preview. Read more about it [here](https://devblogs.microsoft.com/appcenter/app-center-mbaas-retirement/)
+App Center MBaaS will not mature out of preview. Read more about it [here](https://devblogs.microsoft.com/appcenter/app-center-mbaas-retirement/?WT.mc_id=cloudnews-github-mijam)
 
 # The App
 
@@ -45,7 +45,7 @@ Search for blog posts using the integrated search functionality found in the Blo
 
 This functionality is powered by Azure Search, a managed Search as a Service, available from Microsoft. Azure Search provides a search engine for the app data which can be easily integrated. The app communicates directly with the service using its REST API, and the Swift implementation can be found in the Services directory. This was done in increase performance, though the service is currently hosting in only 1 location (UK South).
 
-You can learn more about Azure Search by exploring the [official documentation](https://docs.microsoft.com/en-us/azure/search/) or get interactive with the [Introduction to Azure Search](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-search/) Microsoft Learn module.
+You can learn more about Azure Search by exploring the [official documentation](https://docs.microsoft.com/azure/search/?WT.mc_id=cloudnews-github-mijam) or get interactive with the [Introduction to Azure Search](https://docs.microsoft.com/learn/modules/intro-to-azure-search/?WT.mc_id=cloudnews-github-mijam) Microsoft Learn module.
 
 ## Bring your own Browser (BYOB)
 
